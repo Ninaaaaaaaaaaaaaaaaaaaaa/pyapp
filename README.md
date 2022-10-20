@@ -2,4 +2,4 @@
 We will build python app
 
 ## ouline
-- Build interface
+- Build interface by PyQt
